@@ -1,3 +1,3 @@
 ## Hello & welcome to farmer connect! 👋
 
-We're building end-to-end traceability solutions.
+Farmer connect delivers end-to-end traceability in food & agriculture supply chains, addressing regulatory compliance & ESG differentiators.
